@@ -6,9 +6,6 @@ package check.maat;
 import models.Board;
 
 public class App {
-    public String getGreeting() {
-        return "Hello world.";
-    }
 
     public static void main(String[] args) {
         Board board = new Board();
