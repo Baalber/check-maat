@@ -22,5 +22,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = "check-maat.App"
+    mainClassName = "checkmaat.App"
 }
